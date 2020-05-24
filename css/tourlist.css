@@ -143,3 +143,14 @@
         text-align: center;
     }
 }
+
+@media (max-width:405px){
+   
+    .navbar-brand {
+        width: 70%;
+    }
+    .navbar-brand img {
+        width: 100%;
+    }
+     
+ }
